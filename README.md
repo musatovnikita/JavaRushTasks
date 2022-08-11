@@ -2,8 +2,6 @@
 
 ## About
 
-My solution to the JavaRush course tasks.
-
 JavaRush is an online course for learning Java programming from scratch. This course is a perfect way to master Java for beginners. It contains 1200+ of tasks with instant verification and an essential scope of Java fundamentals theory. To help you succeed in education, we’ve implemented a set of motivational features: quizzes, coding projects, content about efficient learning and Java developer’s career. 
 
 ## Documentation
