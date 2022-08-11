@@ -1,4 +1,4 @@
-<p align="center"><a href="https://javarush.ru/" target="_blank" rel="noopener noreferrer"><img width="100" src="https://javarush.ru/sapper/assets/images/site/logo/logo-jr--light.svg" alt="Vue logo"></a></p>
+<p align="center"><a href="https://javarush.ru/" target="_blank" rel="noopener noreferrer"><img width="1000" src="https://javarush.ru/sapper/assets/images/site/logo/logo-jr--light.svg" alt="Vue logo"></a></p>
 
 <p align="center">
   <a href="https://circleci.com/gh/vuejs/vue/tree/dev"><img src="https://img.shields.io/circleci/project/github/vuejs/vue/dev.svg?sanitize=true" alt="Build Status"></a>
