@@ -18,4 +18,5 @@ For questions and support please use [chat](https://javarush.ru/dialogues/admini
 
 - [Facebook](https://www.facebook.com/www.javarush.ru/)
 - [VK](https://vk.com/javarush)
+- [Telegram](https://t.me/javarush_original)
 - [YouTube](https://www.youtube.com/channel/UCMcDsSeqS531-HKz6GiJgtA)
