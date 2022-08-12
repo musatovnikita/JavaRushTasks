@@ -15,32 +15,32 @@ public class Solution {
     }
 
     public static int countDigits(String string) {
-        int countDigits = 0;
-        for (int i = 0; i < string.length(); i++) {
-            if (Character.isDigit(string.charAt(i))) {
-                countDigits++;
+        int count = 0;
+        for (char aChar : string.toCharArray()) {
+            if (Character.isDigit(aChar)) {
+                count++;
             }
         }
-        return countDigits;
+        return count;
     }
 
     public static int countLetters(String string) {
-        int countLetters = 0;
+        int count = 0;
         for (int i = 0; i < string.length(); i++) {
             if (Character.isLetter(string.charAt(i))) {
-                countLetters++;
+                count++;
             }
         }
-        return countLetters;
+        return count;
     }
 
     public static int countSpaces(String string) {
-        int countSpaces = 0;
+        int count = 0;
         for (int i = 0; i < string.length(); i++) {
             if (Character.isSpaceChar(string.charAt(i))) {
-                countSpaces++;
+                count++;
             }
         }
-        return countSpaces;
+        return count;
     }
 }
