@@ -13,8 +13,8 @@ public class Solution {
         Scanner console = new Scanner(System.in);
         int temperature = console.nextInt();
         if (temperature < 0)
-            System.out.println("на улице холодно");
+            System.out.println(cold);
         else
-            System.out.println("на улице тепло");
+            System.out.println(warm);
     }
 }
