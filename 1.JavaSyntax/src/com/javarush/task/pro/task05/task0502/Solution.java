@@ -16,7 +16,6 @@ public class Solution {
         strings [3] = ODD;
         strings [4] = EVEN;
 
-
         System.out.print("index = 0");
         System.out.println(" value = " + strings[0]);
         System.out.print("index = 1");
