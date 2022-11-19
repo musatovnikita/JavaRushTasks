@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class Solution {
     public static int[] array;
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
         int n = console.nextInt();
         array = new int[n];
