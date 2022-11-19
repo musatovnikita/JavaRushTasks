@@ -13,18 +13,16 @@ public class Solution {
         int number = console.nextInt();
         int[] array = new int[number];
 
-        if(number > 0) {
-            for (int i = 0; i < number; i++) {
-                array[i] = console.nextInt();
-            }
+        for (int i = 0; i < array.length; i++) {
+            array[i] = console.nextInt();
         }
-        if(number % 2 != 0) {
-            for (int i = 0; i < array.length; i++) {
-                System.out.println(array[i] + " ");
+        if (number % 2 == 0) {
+            for (int i = array.length - 1; i >= 0; i--) {
+                System.out.println(array[i]);
             }
         } else {
-            for (int i = array.length-1; i >= 0; i--) {
-                System.out.println(array[i] + " ");
+            for (int i = 0; i < array.length; i++) {
+                System.out.println(array[i]);
             }
         }
     }
