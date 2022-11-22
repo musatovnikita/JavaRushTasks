@@ -17,7 +17,6 @@ public class Solution {
             multiArray = new int[number][];
             for (int i = 0; i < number; i++) {
                 multiArray[i] = new int[console.nextInt()];
-
             }
         }
         for (int i = 0; i < multiArray.length; i++) {
