@@ -10,11 +10,10 @@ public class Solution {
 
     }
 
-    public static void signIn(String username){
-        String name = "user";
-        if (username == name){
+    public static void signIn(String username) {
+        if (username.equals("user")) {
             return;
-        } else{
+        } else {
             System.out.println("Добро пожаловать " + username);
             System.out.println("Очень скучали по Вам, " + username);
         }
